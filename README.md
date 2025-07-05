@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=248&color=gradient&text=Amit%20Jomy&section=header&reversal=false&textBg=false&fontSize=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Amit%20Jomy&section=header&reversal=false&textBg=false"/>
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on E2EE Realtime & Scalable Chat and Video Call<br>🌱 I’m currently learning to code better<br>
+⚡ B'Tech-27 at IIT Tirupati<br>🔭 I’m currently working on E2EE Realtime & Scalable Chat and Video Call<br>🌱 I’m currently learning to code better<br>
 
 
 ## 🌐 Socials:
@@ -21,5 +21,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amitjomy007&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false&textBg=false"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
