@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=248&color=gradient&text=Amit%20Jomy&section=header&reversal=false&textBg=false&fontSize=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=248&color=gradient&text=Amit%20Jomy&section=header&reversal=false&textBg=false&fontSize=45"/>
 </p>
 
 # 💫 About Me:
