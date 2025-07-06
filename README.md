@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-⚡ B'Tech-27 at IIT Tirupati<br>🔭 I’m currently working on hard Realtime tools in windows<br>🌱 I’m currently learning to code better<br>
+⚡ B'Tech-27 at IIT Tirupati<br>🔭 I’m currently working on hard Realtime tools in windows with Builder C++<br>🌱 I’m currently learning to code better<br>
 
 
 ## 🌐 Socials:
